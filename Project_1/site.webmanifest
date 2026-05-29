@@ -1,0 +1,15 @@
+{
+  "name": "Organo Farms",
+  "short_name": "Organo Farms",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f9f1",
+  "theme_color": "#16a34a",
+  "icons": [
+    {
+      "src": "logo.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
